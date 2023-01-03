@@ -27,7 +27,7 @@ url: "https://www.bscottwilson.com" # the base hostname & protocol for your site
 github_username:  bswilson
 
 # Build settings
-theme: minima
+theme: architect
 plugins:
   - jekyll-feed
 
