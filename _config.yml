@@ -20,9 +20,7 @@
 
 title: Scott Wilson
 email: bswilson@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Scott Wilson's website is under construction, and will be coming in January 2023.
-baseurl: "" # the subpath of your site, e.g. /blog
+description: Scott Wilson's website is under construction, and will be coming in January 2023.
 url: "https://www.bscottwilson.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  bswilson
 
